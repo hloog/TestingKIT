@@ -1,0 +1,18 @@
+standard
+18
+2
+place 6;3;6;8
+place 3;2;1;7
+place 6;4;6;7
+print
+reset
+print
+place 6;3;6;8
+place 3;2;1;7
+state 3;2
+state 3;9
+place 6;4;6;7
+place 6;9;6;2
+place 6;5;6;6
+rowprint 6
+quit
