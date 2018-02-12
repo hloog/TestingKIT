@@ -1,0 +1,51 @@
+plac 6;6;6;6
+ quit
+reset 7
+place 5;5;5;5
+place 5;6;h;8
+print
+state 18;5
+place -14;3;5
+place 5;2;
+place 3;8
+palce 1;1;2;2
+place 4;5;6;7;8
+place
+ place 4;2;2;2
+place  3;3;2;2
+place5;5;4;3
+rowprint 6
+rowprint -1
+rowprint  5
+ rowprint 1
+rowprint 2;6
+rowprint 18
+rowprint 19
+rowprint6
+rowprint h
+colprint 6
+colprint -1
+colprint  5
+ colprint 1
+colprint 2;6
+colprint 18
+colprint 19
+colprint6
+colprint <
+state 2;3;
+state 2
+ state 4;6
+state  6;7
+place 5;6;6;5
+state 5;6
+state 6;5
+place 0;0;17;5
+state 0;0
+state 17;5
+rest
+reset
+ reset
+reset 
+ quit
+quit 
+quit
